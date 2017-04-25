@@ -1,0 +1,1285 @@
+[
+  {
+    "location": "france/region-guyane", 
+    "result": [
+      [
+        "Jean-Luc MELENCHON", 
+        24.72, 
+        6633
+      ], 
+      [
+        "Marine LE PEN", 
+        24.29, 
+        6519
+      ], 
+      [
+        "Emmanuel MACRON", 
+        18.75, 
+        5031
+      ], 
+      [
+        "Francois FILLON", 
+        14.66, 
+        3934
+      ], 
+      [
+        "Benoit HAMON", 
+        5.69, 
+        1528
+      ], 
+      [
+        "Philippe POUTOU", 
+        5.24, 
+        1405
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        1.79, 
+        480
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        1.76, 
+        471
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        1.72, 
+        462
+      ], 
+      [
+        "Jean LASSALLE", 
+        1.02, 
+        273
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.37, 
+        98
+      ]
+    ], 
+    "votants": {
+      "blancs": 3747, 
+      "blancs_prc": 4.07, 
+      "exprimes": 26834, 
+      "exprimes_prc": 29.16, 
+      "inscrits": 92035, 
+      "nuls": 1344, 
+      "nuls_prc": 1.46, 
+      "participation": 31925, 
+      "participation_prc": 34.69
+    }
+  }, 
+  {
+    "location": "france/region-occitanie", 
+    "result": [
+      [
+        "Marine LE PEN", 
+        22.98, 
+        762104
+      ], 
+      [
+        "Emmanuel MACRON", 
+        22.32, 
+        740037
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        22.14, 
+        734223
+      ], 
+      [
+        "Francois FILLON", 
+        17.07, 
+        566045
+      ], 
+      [
+        "Benoit HAMON", 
+        6.53, 
+        216362
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        4.08, 
+        135405
+      ], 
+      [
+        "Jean LASSALLE", 
+        2.28, 
+        75483
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.06, 
+        35219
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.86, 
+        28603
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.51, 
+        16777
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.17, 
+        5524
+      ]
+    ], 
+    "votants": {
+      "blancs": 56853, 
+      "blancs_prc": 1.36, 
+      "exprimes": 3315782, 
+      "exprimes_prc": 79.05, 
+      "inscrits": 4194303, 
+      "nuls": 27193, 
+      "nuls_prc": 0.65, 
+      "participation": 3399828, 
+      "participation_prc": 81.06
+    }
+  }, 
+  {
+    "location": "france/region-centre-val-de-loire", 
+    "result": [
+      [
+        "Marine LE PEN", 
+        23.08, 
+        329470
+      ], 
+      [
+        "Emmanuel MACRON", 
+        22.68, 
+        323724
+      ], 
+      [
+        "Francois FILLON", 
+        21.04, 
+        300324
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        17.67, 
+        252307
+      ], 
+      [
+        "Benoit HAMON", 
+        5.85, 
+        83552
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        5.75, 
+        82060
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.14, 
+        16282
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.95, 
+        13570
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.85, 
+        12075
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.8, 
+        11365
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.2, 
+        2882
+      ]
+    ], 
+    "votants": {
+      "blancs": 27923, 
+      "blancs_prc": 1.53, 
+      "exprimes": 1427611, 
+      "exprimes_prc": 78.11, 
+      "inscrits": 1827657, 
+      "nuls": 11358, 
+      "nuls_prc": 0.62, 
+      "participation": 1466892, 
+      "participation_prc": 80.26
+    }
+  }, 
+  {
+    "location": "france/region-mayotte", 
+    "result": [
+      [
+        "Francois FILLON", 
+        32.61, 
+        10912
+      ], 
+      [
+        "Marine LE PEN", 
+        27.28, 
+        9130
+      ], 
+      [
+        "Emmanuel MACRON", 
+        19.13, 
+        6403
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        8.39, 
+        2808
+      ], 
+      [
+        "Benoit HAMON", 
+        4.35, 
+        1454
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        3.08, 
+        1030
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.88, 
+        629
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        1.23, 
+        411
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        1.0, 
+        336
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.55, 
+        184
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.5, 
+        166
+      ]
+    ], 
+    "votants": {
+      "blancs": 944, 
+      "blancs_prc": 1.14, 
+      "exprimes": 33463, 
+      "exprimes_prc": 40.29, 
+      "inscrits": 83047, 
+      "nuls": 1780, 
+      "nuls_prc": 2.14, 
+      "participation": 36187, 
+      "participation_prc": 43.57
+    }
+  }, 
+  {
+    "location": "france/region-hauts-de-france", 
+    "result": [
+      [
+        "Marine LE PEN", 
+        31.03, 
+        1003221
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        19.59, 
+        633322
+      ], 
+      [
+        "Emmanuel MACRON", 
+        19.5, 
+        630300
+      ], 
+      [
+        "Francois FILLON", 
+        16.13, 
+        521389
+      ], 
+      [
+        "Benoit HAMON", 
+        5.16, 
+        166640
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        4.97, 
+        160722
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.04, 
+        33653
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.9, 
+        29194
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.81, 
+        26043
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.69, 
+        22411
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.18, 
+        5688
+      ]
+    ], 
+    "votants": {
+      "blancs": 58622, 
+      "blancs_prc": 1.38, 
+      "exprimes": 3232583, 
+      "exprimes_prc": 76.21, 
+      "inscrits": 4241887, 
+      "nuls": 25489, 
+      "nuls_prc": 0.6, 
+      "participation": 3316694, 
+      "participation_prc": 78.19
+    }
+  }, 
+  {
+    "location": "france/region-martinique", 
+    "result": [
+      [
+        "Jean-Luc MELENCHON", 
+        27.36, 
+        29958
+      ], 
+      [
+        "Emmanuel MACRON", 
+        25.53, 
+        27951
+      ], 
+      [
+        "Francois FILLON", 
+        16.85, 
+        18444
+      ], 
+      [
+        "Marine LE PEN", 
+        10.94, 
+        11975
+      ], 
+      [
+        "Benoit HAMON", 
+        9.75, 
+        10673
+      ], 
+      [
+        "Philippe POUTOU", 
+        2.95, 
+        3230
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        2.14, 
+        2340
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        2.06, 
+        2257
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        1.29, 
+        1407
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.8, 
+        871
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.34, 
+        374
+      ]
+    ], 
+    "votants": {
+      "blancs": 8132, 
+      "blancs_prc": 2.62, 
+      "exprimes": 109480, 
+      "exprimes_prc": 35.22, 
+      "inscrits": 310812, 
+      "nuls": 6345, 
+      "nuls_prc": 2.04, 
+      "participation": 123957, 
+      "participation_prc": 39.88
+    }
+  }, 
+  {
+    "location": "france/region-provence-alpes-cote-d-azur", 
+    "result": [
+      [
+        "Marine LE PEN", 
+        28.17, 
+        774791
+      ], 
+      [
+        "Francois FILLON", 
+        22.37, 
+        615455
+      ], 
+      [
+        "Emmanuel MACRON", 
+        18.94, 
+        520909
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        18.74, 
+        515419
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        4.33, 
+        119025
+      ], 
+      [
+        "Benoit HAMON", 
+        4.12, 
+        113344
+      ], 
+      [
+        "Jean LASSALLE", 
+        1.07, 
+        29551
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.94, 
+        25948
+      ], 
+      [
+        "Philippe POUTOU", 
+        0.77, 
+        21316
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.38, 
+        10439
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.17, 
+        4569
+      ]
+    ], 
+    "votants": {
+      "blancs": 44473, 
+      "blancs_prc": 1.25, 
+      "exprimes": 2750766, 
+      "exprimes_prc": 77.11, 
+      "inscrits": 3567551, 
+      "nuls": 15425, 
+      "nuls_prc": 0.43, 
+      "participation": 2810664, 
+      "participation_prc": 78.78
+    }
+  }, 
+  {
+    "location": "france/region-auvergne-et-rhone-alpes", 
+    "result": [
+      [
+        "Emmanuel MACRON", 
+        24.5, 
+        1026255
+      ], 
+      [
+        "Marine LE PEN", 
+        20.72, 
+        867874
+      ], 
+      [
+        "Francois FILLON", 
+        20.2, 
+        846252
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        19.24, 
+        805846
+      ], 
+      [
+        "Benoit HAMON", 
+        6.13, 
+        256620
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        5.15, 
+        215951
+      ], 
+      [
+        "Jean LASSALLE", 
+        1.27, 
+        53282
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.04, 
+        43530
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.99, 
+        41352
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.59, 
+        24670
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.18, 
+        7602
+      ]
+    ], 
+    "votants": {
+      "blancs": 78233, 
+      "blancs_prc": 1.44, 
+      "exprimes": 4189234, 
+      "exprimes_prc": 77.34, 
+      "inscrits": 5416712, 
+      "nuls": 29692, 
+      "nuls_prc": 0.55, 
+      "participation": 4297159, 
+      "participation_prc": 79.33
+    }
+  }, 
+  {
+    "location": "france/region-com-et-francais-etablis-hors-de-france", 
+    "result": [], 
+    "votants": {}
+  }, 
+  {
+    "location": "france/region-bourgogne-franche-comte", 
+    "result": [
+      [
+        "Marine LE PEN", 
+        25.09, 
+        387658
+      ], 
+      [
+        "Emmanuel MACRON", 
+        21.89, 
+        338187
+      ], 
+      [
+        "Francois FILLON", 
+        19.7, 
+        304387
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        17.93, 
+        276954
+      ], 
+      [
+        "Benoit HAMON", 
+        5.66, 
+        87382
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        5.65, 
+        87263
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.2, 
+        18529
+      ], 
+      [
+        "Jean LASSALLE", 
+        1.03, 
+        15843
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.93, 
+        14330
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.74, 
+        11492
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.18, 
+        2842
+      ]
+    ], 
+    "votants": {
+      "blancs": 31180, 
+      "blancs_prc": 1.56, 
+      "exprimes": 1544867, 
+      "exprimes_prc": 77.18, 
+      "inscrits": 2001656, 
+      "nuls": 12603, 
+      "nuls_prc": 0.63, 
+      "participation": 1588650, 
+      "participation_prc": 79.37
+    }
+  }, 
+  {
+    "location": "france/region-pays-de-la-loire", 
+    "result": [
+      [
+        "Emmanuel MACRON", 
+        26.27, 
+        575832
+      ], 
+      [
+        "Francois FILLON", 
+        23.56, 
+        516428
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        18.41, 
+        403454
+      ], 
+      [
+        "Marine LE PEN", 
+        16.62, 
+        364267
+      ], 
+      [
+        "Benoit HAMON", 
+        6.55, 
+        143491
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        5.01, 
+        109842
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.2, 
+        26340
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.78, 
+        16988
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.73, 
+        16018
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.71, 
+        15529
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.17, 
+        3731
+      ]
+    ], 
+    "votants": {
+      "blancs": 44099, 
+      "blancs_prc": 1.63, 
+      "exprimes": 2191920, 
+      "exprimes_prc": 81.03, 
+      "inscrits": 2705189, 
+      "nuls": 16679, 
+      "nuls_prc": 0.62, 
+      "participation": 2252698, 
+      "participation_prc": 83.27
+    }
+  }, 
+  {
+    "location": "france/region-bretagne", 
+    "result": [
+      [
+        "Emmanuel MACRON", 
+        29.05, 
+        581076
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        19.28, 
+        385736
+      ], 
+      [
+        "Francois FILLON", 
+        19.04, 
+        380815
+      ], 
+      [
+        "Marine LE PEN", 
+        15.33, 
+        306644
+      ], 
+      [
+        "Benoit HAMON", 
+        9.04, 
+        180827
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        4.4, 
+        87928
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.35, 
+        27092
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.95, 
+        19097
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.71, 
+        14296
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.67, 
+        13419
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.17, 
+        3400
+      ]
+    ], 
+    "votants": {
+      "blancs": 34417, 
+      "blancs_prc": 1.4, 
+      "exprimes": 2000330, 
+      "exprimes_prc": 81.52, 
+      "inscrits": 2453683, 
+      "nuls": 13865, 
+      "nuls_prc": 0.57, 
+      "participation": 2048612, 
+      "participation_prc": 83.49
+    }
+  }, 
+  {
+    "location": "france/region-nouvelle-aquitaine", 
+    "result": [
+      [
+        "Emmanuel MACRON", 
+        25.12, 
+        851372
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        20.75, 
+        703505
+      ], 
+      [
+        "Marine LE PEN", 
+        18.89, 
+        640228
+      ], 
+      [
+        "Francois FILLON", 
+        17.79, 
+        602884
+      ], 
+      [
+        "Benoit HAMON", 
+        7.09, 
+        240175
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        4.59, 
+        155600
+      ], 
+      [
+        "Jean LASSALLE", 
+        2.71, 
+        91915
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.46, 
+        49649
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.79, 
+        26667
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.63, 
+        21442
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.18, 
+        6264
+      ]
+    ], 
+    "votants": {
+      "blancs": 63991, 
+      "blancs_prc": 1.48, 
+      "exprimes": 3389701, 
+      "exprimes_prc": 78.29, 
+      "inscrits": 4329942, 
+      "nuls": 30102, 
+      "nuls_prc": 0.7, 
+      "participation": 3483794, 
+      "participation_prc": 80.46
+    }
+  }, 
+  {
+    "location": "france/region-ile-de-france", 
+    "result": [
+      [
+        "Emmanuel MACRON", 
+        28.63, 
+        1612816
+      ], 
+      [
+        "Francois FILLON", 
+        22.19, 
+        1249770
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        21.75, 
+        1225311
+      ], 
+      [
+        "Marine LE PEN", 
+        12.58, 
+        708340
+      ], 
+      [
+        "Benoit HAMON", 
+        7.64, 
+        430404
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        4.02, 
+        226266
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        1.14, 
+        64406
+      ], 
+      [
+        "Philippe POUTOU", 
+        0.81, 
+        45715
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.65, 
+        36358
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.42, 
+        23592
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.17, 
+        9796
+      ]
+    ], 
+    "votants": {
+      "blancs": 87631, 
+      "blancs_prc": 1.22, 
+      "exprimes": 5632774, 
+      "exprimes_prc": 78.24, 
+      "inscrits": 7199231, 
+      "nuls": 31104, 
+      "nuls_prc": 0.43, 
+      "participation": 5751509, 
+      "participation_prc": 79.89
+    }
+  }, 
+  {
+    "location": "france/region-guadeloupe", 
+    "result": [
+      [
+        "Emmanuel MACRON", 
+        30.22, 
+        33992
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        24.13, 
+        27139
+      ], 
+      [
+        "Francois FILLON", 
+        14.52, 
+        16337
+      ], 
+      [
+        "Marine LE PEN", 
+        13.51, 
+        15203
+      ], 
+      [
+        "Benoit HAMON", 
+        9.95, 
+        11188
+      ], 
+      [
+        "Philippe POUTOU", 
+        2.05, 
+        2308
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        1.82, 
+        2042
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        1.76, 
+        1980
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        1.17, 
+        1319
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.58, 
+        658
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.29, 
+        327
+      ]
+    ], 
+    "votants": {
+      "blancs": 5648, 
+      "blancs_prc": 1.79, 
+      "exprimes": 112493, 
+      "exprimes_prc": 35.56, 
+      "inscrits": 316345, 
+      "nuls": 8510, 
+      "nuls_prc": 2.69, 
+      "participation": 126651, 
+      "participation_prc": 40.04
+    }
+  }, 
+  {
+    "location": "france/region-la-reunion", 
+    "result": [
+      [
+        "Jean-Luc MELENCHON", 
+        24.53, 
+        85987
+      ], 
+      [
+        "Marine LE PEN", 
+        23.46, 
+        82219
+      ], 
+      [
+        "Emmanuel MACRON", 
+        18.91, 
+        66292
+      ], 
+      [
+        "Francois FILLON", 
+        17.26, 
+        60508
+      ], 
+      [
+        "Benoit HAMON", 
+        7.67, 
+        26872
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        2.89, 
+        10123
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        1.72, 
+        6029
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        1.48, 
+        5190
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.25, 
+        4377
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.55, 
+        1939
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.27, 
+        944
+      ]
+    ], 
+    "votants": {
+      "blancs": 11468, 
+      "blancs_prc": 1.79, 
+      "exprimes": 350480, 
+      "exprimes_prc": 54.81, 
+      "inscrits": 639481, 
+      "nuls": 13304, 
+      "nuls_prc": 2.08, 
+      "participation": 375252, 
+      "participation_prc": 58.68
+    }
+  }, 
+  {
+    "location": "france/region-corse", 
+    "result": [
+      [
+        "Marine LE PEN", 
+        27.88, 
+        43041
+      ], 
+      [
+        "Francois FILLON", 
+        25.56, 
+        39453
+      ], 
+      [
+        "Emmanuel MACRON", 
+        18.48, 
+        28528
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        13.81, 
+        21314
+      ], 
+      [
+        "Jean LASSALLE", 
+        5.64, 
+        8711
+      ], 
+      [
+        "Benoit HAMON", 
+        3.74, 
+        5780
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        2.89, 
+        4462
+      ], 
+      [
+        "Philippe POUTOU", 
+        0.89, 
+        1374
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.63, 
+        965
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.32, 
+        495
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.16, 
+        253
+      ]
+    ], 
+    "votants": {
+      "blancs": 2874, 
+      "blancs_prc": 1.23, 
+      "exprimes": 154376, 
+      "exprimes_prc": 66.07, 
+      "inscrits": 233656, 
+      "nuls": 1741, 
+      "nuls_prc": 0.75, 
+      "participation": 158991, 
+      "participation_prc": 68.04
+    }
+  }, 
+  {
+    "location": "france/region-normandie", 
+    "result": [
+      [
+        "Marine LE PEN", 
+        23.93, 
+        452702
+      ], 
+      [
+        "Emmanuel MACRON", 
+        22.36, 
+        423075
+      ], 
+      [
+        "Francois FILLON", 
+        19.57, 
+        370188
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        19.16, 
+        362535
+      ], 
+      [
+        "Benoit HAMON", 
+        6.01, 
+        113744
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        5.23, 
+        98957
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.26, 
+        23816
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.8, 
+        15196
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        0.76, 
+        14303
+      ], 
+      [
+        "Jean LASSALLE", 
+        0.73, 
+        13900
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.19, 
+        3544
+      ]
+    ], 
+    "votants": {
+      "blancs": 35216, 
+      "blancs_prc": 1.47, 
+      "exprimes": 1891960, 
+      "exprimes_prc": 78.89, 
+      "inscrits": 2398182, 
+      "nuls": 12642, 
+      "nuls_prc": 0.53, 
+      "participation": 1939818, 
+      "participation_prc": 80.89
+    }
+  }, 
+  {
+    "location": "france/region-grand-est", 
+    "result": [
+      [
+        "Marine LE PEN", 
+        27.78, 
+        825600
+      ], 
+      [
+        "Emmanuel MACRON", 
+        20.72, 
+        615775
+      ], 
+      [
+        "Francois FILLON", 
+        19.73, 
+        586390
+      ], 
+      [
+        "Jean-Luc MELENCHON", 
+        16.31, 
+        484810
+      ], 
+      [
+        "Nicolas DUPONT-AIGNAN", 
+        6.13, 
+        182200
+      ], 
+      [
+        "Benoit HAMON", 
+        5.09, 
+        151296
+      ], 
+      [
+        "Philippe POUTOU", 
+        1.16, 
+        34468
+      ], 
+      [
+        "Jean LASSALLE", 
+        1.03, 
+        30508
+      ], 
+      [
+        "Francois ASSELINEAU", 
+        1.02, 
+        30223
+      ], 
+      [
+        "Nathalie ARTHAUD", 
+        0.82, 
+        24272
+      ], 
+      [
+        "Jacques CHEMINADE", 
+        0.2, 
+        6078
+      ]
+    ], 
+    "votants": {
+      "blancs": 55643, 
+      "blancs_prc": 1.44, 
+      "exprimes": 2971620, 
+      "exprimes_prc": 76.72, 
+      "inscrits": 3873402, 
+      "nuls": 20303, 
+      "nuls_prc": 0.52, 
+      "participation": 3047566, 
+      "participation_prc": 78.68
+    }
+  }
+]
